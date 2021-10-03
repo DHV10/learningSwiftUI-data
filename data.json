@@ -2,6 +2,8 @@
     class: "iOS Fresher",
     detail:
     {
-        trainer: "NhatHM", class_code: "HN20_FR_iOS_01", unit: "GST.SYN.APL"
+        trainer: "NhatHM",
+        class_code: "HN20_FR_iOS_01",
+        unit: "GST.SYN.APL"
     }
 }
